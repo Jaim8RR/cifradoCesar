@@ -26,4 +26,4 @@ Si el texto está en español se sabe que, estadísticamente, la letra que más 
 “e” (tanto mayúscula como minúscula). Por tanto, se puede asumir que la letra que más
 aparece en el texto cifrado es la representación de la “e” y con ello deducir el desplazamiento.
 
-####EJ: https://github.com/Jaim8RR/cifradoCesar/blob/main/txt.zip
+Ej para testing: https://github.com/Jaim8RR/cifradoCesar/blob/main/txt.zip
