@@ -181,7 +181,7 @@ public class CifradoCesar {
 
                         }
                         if (j - desplazamiento > 0) {
-                            lineaDescifrada += alfabeto.getAlfabetoMay().length - j - desplazamiento % alfabeto.getAlfabetoMay().length;
+                            lineaDescifrada += alfabeto.getAlfabetoMay()[j - desplazamiento % alfabeto.getAlfabetoMay().length];
                         }
 
                     }
